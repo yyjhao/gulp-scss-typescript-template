@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true
+    },
+    "buildOnSave": false,
+    "compileOnSave": false,
+    "filesGlob": [
+        "./**/*.ts",
+        "../../node_modules/**/*.ts",
+        "../../typings/**/*.ts"
+    ],
+    "files": [
+        "./main.ts"
+    ]
+}
